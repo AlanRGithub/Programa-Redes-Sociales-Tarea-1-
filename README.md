@@ -10,7 +10,3 @@ Script en Python que lee `datos_redes_sociales.csv` y calcula:
 ## Requisitos
 - Python 3.8+
 - pandas
-
-Instalación rápida:
-```bash
-pip install -r requirements.txt
